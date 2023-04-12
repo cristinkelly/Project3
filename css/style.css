@@ -81,3 +81,8 @@ p {
 .skin10 {
     background-color: #292420;
 }
+
+.favorite {
+    margin: 20px;
+    padding: 5%;
+}
