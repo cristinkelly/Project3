@@ -1,3 +1,4 @@
+
 body {
     padding: 5%;
 }
@@ -11,4 +12,72 @@ h2{
 
 p {
     text-align: center;
+}
+
+.btn-dark {
+    background-color: #9B575C !important;
+    
+}
+
+.progress-bar {
+    background-color: #52222A !important;
+}
+
+.formbutton {
+    text-align: center;
+    padding:5%;
+}
+
+.step3container {
+    grid-template-rows: 0%;
+}
+
+.btn-light {
+    border: 1px solid black;
+}
+
+.skintone {
+    border:solid black;
+    padding:20px;
+    border-radius: 50%;
+}
+
+.skin1 {
+    background-color: #f6ede4;
+}
+
+.skin2{
+    background-color: #f3e7db;
+}
+
+.skin3 {
+    background-color: #f7ead0;
+}
+
+.skin4{
+    background-color: #eadaba;
+}
+
+.skin5 {
+    background-color: #d7bd96;
+}
+
+.skin6 {
+    background-color: #a07e56;
+}
+
+.skin7 {
+    background-color: #825c43;
+}
+
+.skin8 {
+    background-color: #604134;
+}
+
+.skin9 {
+    background-color: #3a312a;
+}
+
+.skin10 {
+    background-color: #292420;
 }
