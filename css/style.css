@@ -39,7 +39,17 @@ p {
 .skintone {
     border:solid black;
     padding:20px;
-    border-radius: 50%;
+   border-radius: 50%;
+ }
+
+
+.color-row {
+    flex-direction: column;
+}
+
+.color-block {
+    align-items: center;
+    justify-content: center;
 }
 
 .skin1 {
