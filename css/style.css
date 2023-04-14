@@ -6,18 +6,22 @@ body {
 }
 h1 {
     text-align: center;
+    font-family: 'Raleway',sans-serif;
 }
 
 h2{
     text-align: center;
+    font-family: 'Raleway',sans-serif;
 }
 
 p {
     text-align: center;
+    font-family: 'Raleway',sans-serif;
 }
 
 .btn-dark {
     background-color: #9B575C !important;
+    font-family: 'Raleway',sans-serif !important;
     
 }
 
@@ -31,11 +35,13 @@ p {
 }
 
 .step3container {
-    grid-template-rows: 0%;
+    grid-template-rows: 100%;
+    text-align: center;
 }
 
 .btn-light {
     border: 1px solid black;
+    font-family: 'Raleway',sans-serif !important;
 }
 
 .skinbutton{
@@ -102,6 +108,7 @@ p {
 .bailey {
     background-color: #9B575C !important; 
     border-radius: 50% !important;
+    font-family: 'Raleway',sans-serif !important;
 }
 
 .form-inline {
@@ -115,4 +122,14 @@ p {
 .extended {
     border-radius: 1%;
     text-align: center;
+    font-family: 'Raleway',sans-serif !important;
+}
+
+.productscontainer {
+    background-color: white;
+}
+
+.card {
+    align-items: center;
+    font-family: 'Raleway',sans-serif !important;
 }
