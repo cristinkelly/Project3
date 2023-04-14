@@ -38,6 +38,16 @@ p {
     border: 1px solid black;
 }
 
+.skinbutton{
+    text-align: center;
+    padding:15px;
+}
+
+.skinbutton button{
+    height: 100px;
+    width: 100px;
+}
+
 .skintone {
     border:solid black;
     padding:20px;
@@ -90,7 +100,8 @@ p {
 }
 
 .bailey {
-    background-color: #9B575C 
+    background-color: #9B575C !important; 
+    border-radius: 50% !important;
 }
 
 .form-inline {
@@ -99,4 +110,9 @@ p {
 
 .navbar-light {
     background-color: transparent !important;
+}
+
+.extended {
+    border-radius: 1%;
+    text-align: center;
 }
