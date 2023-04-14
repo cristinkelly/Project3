@@ -1,6 +1,8 @@
 
 body {
     padding: 5%;
+    height: 100vh;
+
 }
 h1 {
     text-align: center;
@@ -85,4 +87,16 @@ p {
 .favorite {
     margin: 20px;
     padding: 5%;
+}
+
+.bailey {
+    background-color: #9B575C 
+}
+
+.form-inline {
+    width: 100% !important;
+}
+
+.navbar-light {
+    background-color: transparent !important;
 }
