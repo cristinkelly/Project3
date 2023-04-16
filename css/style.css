@@ -7,11 +7,16 @@ body {
 h1 {
     text-align: center;
     font-family: 'Raleway',sans-serif;
+    font-weight: 800;
+    display:inline-block;
+    padding: 1%;
 }
 
 h2{
     text-align: center;
     font-family: 'Raleway',sans-serif;
+    font-weight: 500;
+    padding: 3%;
 }
 
 p {
@@ -27,8 +32,16 @@ p {
 
 .progress-bar {
     background-color: #52222A !important;
+   
 }
 
+.btnback {
+    background-color: #FBEBEB !important;
+    font-weight: bold !important;
+    border:none !important;
+    font-size: larger !important;
+
+}
 .formbutton {
     text-align: center;
     padding:5%;
@@ -127,9 +140,14 @@ p {
 
 .productscontainer {
     background-color: white;
-}
 
+}
 .card {
     align-items: center;
     font-family: 'Raleway',sans-serif !important;
+    text-align: center !important;
+}
+
+.pg6 {
+    background-color: FBEBEB;
 }
