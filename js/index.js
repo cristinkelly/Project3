@@ -21,3 +21,12 @@ $(document).ready(function() {
         },2000);
     });
 });
+
+$(document).ready(function() {
+  $(".skintone").click(function(e){
+      e.preventDefault();
+      var link = $(this);
+      link.addClass('icon');
+  });
+});
+
